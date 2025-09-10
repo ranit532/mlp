@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/2185206/mlp/mlruns/0/df15f54cadd948ada2d98fca03feb8e7/artifacts
+end_time: 1757493872316
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: df15f54cadd948ada2d98fca03feb8e7
+run_name: classy-shrimp-407
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757493761494
+status: 3
+tags: []
+user_id: '2185206'

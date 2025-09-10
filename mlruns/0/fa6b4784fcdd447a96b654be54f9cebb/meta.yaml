@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/2185206/mlp/mlruns/0/fa6b4784fcdd447a96b654be54f9cebb/artifacts
+end_time: 1757491711067
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fa6b4784fcdd447a96b654be54f9cebb
+run_name: smiling-dove-798
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757491571466
+status: 3
+tags: []
+user_id: '2185206'

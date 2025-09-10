@@ -5,3 +5,9 @@ mlflow
 fastapi
 uvicorn
 joblib
+torch
+torchvision
+torchaudio
+matplotlib
+python-multipart
+seaborn

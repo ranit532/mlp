@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/2185206/mlp/mlruns/0/22e67cb1935e493d9945febd9014aa70/artifacts
+end_time: 1757494453163
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 22e67cb1935e493d9945febd9014aa70
+run_name: angry-fish-891
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757494336090
+status: 3
+tags: []
+user_id: '2185206'

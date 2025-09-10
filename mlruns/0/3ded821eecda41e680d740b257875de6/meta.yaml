@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/2185206/mlp/mlruns/0/3ded821eecda41e680d740b257875de6/artifacts
+end_time: 1757494902996
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3ded821eecda41e680d740b257875de6
+run_name: silent-hare-724
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757494772087
+status: 3
+tags: []
+user_id: '2185206'
